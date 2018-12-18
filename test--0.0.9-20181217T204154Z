@@ -1,0 +1,19 @@
+{
+  "metadata_version": "1.0.0",
+  "remote_origin": "git@github.com:gwilliam-ucar-edu/test.git",
+  "git_repo": "gwilliam-ucar-edu/test",
+  "revision_sha1": "19d45ff27dc956545fbbb87c03b8b163b92214be",
+  "source_version": "0.0.9",
+  "image_created": "2018-12-17T20:41:54.8506712Z",
+  "image_digest": "sha256:54f4a91b04926be49d1a7b7c48ec27da027c8d1f90c14105e8fdee3c7f3e0ddb",
+  "image_id": "54f4a91b0492",
+  "image_registry": "registry-1.docker.io",
+  "image_repo": "gwilliam0ucar",
+  "image_name": "test",
+  "image_qualifier": "",
+  "image_tag": "0.0.9-20181217T204154Z",
+  "base_tag": "alpine/git:latest",
+  "base_digest": "alpine/git@sha256:d76d5ab84de3a35514f8621df4550c59680c3bb623e8c1332ed7af39e33afb0b",
+  "base_remote_origin": "",
+  "base_git_repo": ""
+}
